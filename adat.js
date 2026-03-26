@@ -1,0 +1,1 @@
+export const ADATLISTA = ["","x","","o","","","","","",]
